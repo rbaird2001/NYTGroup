@@ -1,0 +1,36 @@
+#nytHeader{
+    background-color: #21325a;
+    color: #e4e2f2;
+    /* margin: 0 50px; */
+}
+
+#mainContainer{
+    width: 95%;
+}
+
+#searchParam{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+form{
+    margin: 0 auto
+}
+
+#nytImage{
+    width: 500px;
+    display: block; 
+    margin: 0 auto;
+}
+
+h1{
+    display: inline-block;
+    text-align: center;
+    margin: 0 0px 0 225px;
+}
+
+
+
+
+
